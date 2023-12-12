@@ -240,7 +240,7 @@ footer a:hover {
     }
 
     :target {
-        scroll-margin-top: 16rem;
+        scroll-margin-top: 12.5rem;
     }
 
     .bar-h2-img {
@@ -263,7 +263,7 @@ footer a:hover {
         width: 100%;
         max-width: 900px;
         padding-left: unset; /* Esto nos quita la regla que teníamos para que la barra de navegación NO se comiera a nuestro contenido, como ahora es menor tamaño, no la necesitamos.*/
-        padding-top: 12rem;
+        padding-top: 11rem;
     }
     footer {
         display: flex;
